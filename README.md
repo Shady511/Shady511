@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shady
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Programming , Data manipulation and visulization
+- 📫 How to reach me shadyahmed1995@gmail.com
